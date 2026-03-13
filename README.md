@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Wesley Thibes]
+# 👋 Olá, eu sou Wesley Thibes
 
 🎓 Estudante da Aprendizagem Industrial em programador de sistema de informação  
 💻 Interessado em tecnologia, programação e inovação  

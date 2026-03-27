@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Wesley Thibes
 
-🎓 Estudante da Aprendizagem Industrial em programador de sistema de informação  
+🎓 Estudante da Aprendizagem Industrial em programador de sistema de informação contratado pela JBS 
 💻 Interessado em tecnologia, programação e inovação  
 
 ---

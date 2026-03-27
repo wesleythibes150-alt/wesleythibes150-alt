@@ -39,6 +39,7 @@ Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contr
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
 📌 Projeto 1 – [Site 1]https://wesleythibes150-alt.github.io/site/
+
 📌 Projeto 2 – [Nome do Projeto]  
 📌 Projeto 3 – [Nome do Projeto]  
 

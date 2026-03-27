@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Wesley Thibes
 
 🎓 Estudante da Aprendizagem Industrial em Programador de Sistema de Informação.(Senai) Contratado pela Empresa Seara Alimentos
+
 🎓 Estudante do 1º ano da Escola Estatual EEB Cecília Vivan 2026
 
 
